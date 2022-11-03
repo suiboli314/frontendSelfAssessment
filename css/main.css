@@ -80,3 +80,11 @@ section > ul > li {
   left: 0;
   margin: 1em 0;
 }
+
+footer{
+  overflow: hidden;
+  position: fixed;
+  left: auto;
+  right: auto;
+  bottom: 0;
+}
